@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 18/04/2017<br>📚 I'm currently learning binary<br>🎯 Goals: null<br>🎲 Fun fact: null</p>
 
 ###
 
